@@ -1,2 +1,3 @@
 # PowerBI
-Power BI Blog Post Documents and codes
+Power BI Blog Post Documents
+Burada Blogumda yazdığım power BI ile ilgili postlara ait dokümanları bulabilirsiniz.
