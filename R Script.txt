@@ -1,0 +1,1 @@
+NorthwindDB <-read.csv(file="C:/Users/ASUS/Desktop/BlogExample/NorthwindDB.csv", head=TRUE, sep=",")
